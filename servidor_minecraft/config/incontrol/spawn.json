@@ -1,0 +1,20 @@
+[
+  {
+    "minlight": 5,
+    "hostile": true,
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:nightmare_stalker",
+    "mincount": {
+      "amount": 1,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "born_in_chaos_v1:nightmare_stalker",
+    "random": 0.5,
+    "result": "deny"
+  }
+]
